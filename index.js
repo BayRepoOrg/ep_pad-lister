@@ -29,6 +29,7 @@ exports.registerRoute = function (hook_name, args, cb) {
       res.send(eejs.require('ep_pad-lister/templates/list.html', render_args));
     });
   });
+  cb();
 };
 
 async function getDetailedPadList() {
