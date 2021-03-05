@@ -12,6 +12,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:BayRepoOrg/ep_pad-lister.git"
+    "url": "http://github.com/ktt-ol/ep_pad-lister.git"
   }
 }
